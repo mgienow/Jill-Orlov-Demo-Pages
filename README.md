@@ -1,2 +1,1 @@
-# Jill-Orlov-Demo-Pages
-mockup and client demo for JO portfolio site
+Online portfolio of work by artist Jill Orlov.
